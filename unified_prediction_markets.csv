@@ -1,0 +1,10 @@
+# Summary Statistics
+    # Total Products: 3
+    # Average Confidence: 95.97%
+    # High Confidence Products (>80%): 3
+    # Multi-source Products: 1
+    #
+    "unified_name","source_products","average_price","price_variance","confidence_level","source_count","sources","category","min_price","max_price"
+"F1 Drivers Championship","Oscar Piastri 61% Yes 61% No 39% Lando Norris 37% Yes 37% No 63% Max Verstappen <1% Yes <1% No 100% Charles Leclerc <1% Yes <1% No 100% George Russell <1% Yes <1% No 100%","0.617","0","100.0","1","site4","Sports","0.617","0.617"
+"F1 Drivers Standings","Oscar Piastri 61% Yes 61% No 39% Lando Norris 37% Yes 37% No 63% Max Verstappen <1% Yes <1% No 100% Charles Leclerc <1% Yes <1% No 100% George Russell <1% Yes <1% No 100%","0.617","0","96.2","1","site5","Sports","0.617","0.617"
+"F1 Drivers Champion","Oscar Piastri 61% Yes 61% No 39% Lando Norris 37% Yes 37% No 63% Max Verstappen <1% Yes <1% No 100% Charles Leclerc <1% Yes <1% No 100% George Russell <1% Yes <1% No 100%; Oscar Piastri 61% Yes 61% No 39% Lando Norris 37% Yes 37% No 63% Max Verstappen <1% Yes <1% No 100% Charles Leclerc <1% Yes <1% No 100% George Russell <1% Yes <1% No 100%; Oscar Piastri 61% Yes 61% No 39% Lando Norris 37% Yes 37% No 63% Max Verstappen <1% Yes <1% No 100% Charles Leclerc <1% Yes <1% No 100% George Russell <1% Yes <1% No 100%","0.617","0","91.7","3","site1; site2; site3","Sports","0.617","0.617"

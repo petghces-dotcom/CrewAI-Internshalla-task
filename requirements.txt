@@ -1,0 +1,10 @@
+# requirements.txt
+crewai[tools]
+browser-use
+litellm
+pandas
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+pydantic
